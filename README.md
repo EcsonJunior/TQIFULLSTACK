@@ -1,6 +1,6 @@
 ## TQIFULLSTACK
 
-# Iniciando meus estudos com tecnologias de ponta, isso me levara para um transição de carreira na area de Tecnologia!
+# Iniciando meus estudos com Tecnologias de ponta, isso me levara para uma transição de carreira na area de Tecnologia! Gratidão #TQI
 
 ## Links Úteis
 
