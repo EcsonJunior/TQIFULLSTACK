@@ -14,4 +14,4 @@
 [GITHUB pagina oficial](https://github.com)
 
 # HTML 5
-[TINYPNG] (https://tinypng.com/)
+[TINYPNG pagina oficial](https://tinypng.com/)
